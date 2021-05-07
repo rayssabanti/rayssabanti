@@ -18,9 +18,9 @@
 - 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayssabanti&show_icons=true&locale=en&layout=compact" alt="rayssabanti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayssabanti&show_icons=true&locale=en" alt="rayssabanti" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayssabanti&show_icons=true&locale=en" alt="rayssabanti" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayssabanti&" alt="rayssabanti" /></p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
