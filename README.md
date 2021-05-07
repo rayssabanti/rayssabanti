@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayssabanti&show_icons=true&locale=en&layout=compact" alt="rayssabanti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayssabanti&show_icons=true&locale=en" alt="rayssabanti" /></p>
+<p>&nbsp;<img align="center" width="300px" src="https://github-readme-stats.vercel.app/api?username=rayssabanti&show_icons=true&locale=en" alt="rayssabanti" /></p>
 
 
