@@ -1,13 +1,17 @@
-<h1 align="center">Hey stranger!</h1>
+<h1>Hey stranger!</h1>
 <h3 align="center">Always trying to learn as much as possible without losing mental health</h3>
 
 - :hammer_and_wrench: Estou trabalhando atualmente no [MotivaStudy](https://github.com/lucasancelmodias/motivastudy)
 
+- :two_hearts: Gosto e sempre desenvolvo no **Front-End**
+
 - :timer_clock: Irei trabalhar em um projeto de **Pomodoro**
 
-- :notebook: Estou estudando [Data Science e Machine Learning](Data Science e Machine Learning)
+- :computer: Trabalho e quero me aprimorar em **DataScience**
 
 - :notebook: Estou estudando **Python**
+
+- :books: Estou estudando **Machine Learning**
 
 
 <h3 align="left">Languages and Tools:</h3>
