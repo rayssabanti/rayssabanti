@@ -2,12 +2,15 @@
 <h3 align="center">Always trying to learn as much as possible without losing mental health</h3>
 
 - :hammer_and_wrench: Estou trabalhando atualmente no [MotivaStudy](https://github.com/lucasancelmodias/motivastudy)
+- 
+- - :timer_clock: Irei trabalhar em um projeto de **Pomodoro**
 
-- :two_hearts: Gosto e sempre desenvolvo no **Front-End**
+- :two_hearts: Adoro me aventurar no **Front-End** 
 
-- :timer_clock: Irei trabalhar em um projeto de **Pomodoro**
 
 - :computer: Trabalho e quero me aprimorar em **DataScience**
+
+
 
 - :notebook: Estou estudando **Python**
 
