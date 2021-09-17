@@ -1,11 +1,11 @@
 <h1 align="center">Hey stranger!</h1>
 <h3 align="center">Always trying to learn as much as possible without losing mental health</h3>
 
-- :hammer_and_wrench: Estou trabalhando no site [MotivaStudy](https://github.com/lucasancelmodias/motivastudy) utilizando o angular. 
+- :hammer_and_wrench: Estou trabalhando no site [MotivaStudy](https://github.com/lucasancelmodias/motivastudy) utilizando o angular como projeto da faculdade e pessoal.
 
-- :hammer_and_wrench: Estou trabalhando no jogo [Skynet](https://github.com/lucasancelmodias/skynet) com o Unity.
+- :hammer_and_wrench: Estou trabalhando no jogo [Skynet](https://github.com/lucasancelmodias/skynet) com o Unity, ele tem toda uma pegada ciêntista maluco, dá uma olhada depois!
 
-- :hammer_and_wrench: Estou participando do [Challenge BI](https://github.com/rayssabanti/Alura-Challenge-BI) da Alura.
+- :hammer_and_wrench: Participei do [Challenge BI](https://github.com/rayssabanti/Alura-Challenge-BI) da Alura, dá uma conferida!
 
 - :two_hearts: Adoro me aventurar no **Front-End**
 
