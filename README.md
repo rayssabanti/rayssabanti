@@ -11,7 +11,7 @@
 
 - :hammer_and_wrench: Participei do [Challenge BI](https://github.com/rayssabanti/Alura-Challenge-BI) da Alura, dá uma conferida!
 
-- :computer: **Interesses em tecnologia:** SQL,TSQL, DAX, Python, Datascience, Machine learning e criações de pipelines para ETL. 
+- :computer: **Interesses:** SQL,TSQL, DAX, Python, Datascience, Machine learning e criações de pipelines para ETL. 
 
 <h3 align="left">:mag_right:		Me ache por ai!</h3>
 
