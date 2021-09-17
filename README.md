@@ -1,4 +1,4 @@
-<h1 align="center">Hey stranger!</h1>
+<h1 align="center">Oh hello there!</h1>
 <h3 align="center">Always trying to learn as much as possible without losing mental health</h3>
 
 - :hammer_and_wrench: Estou trabalhando no site [MotivaStudy](https://github.com/lucasancelmodias/motivastudy) utilizando o angular como projeto da faculdade e pessoal.
