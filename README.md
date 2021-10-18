@@ -14,11 +14,11 @@
 
 <h3 align="left">:hammer_and_wrench:		Working On </h3>
 
-- :hammer_and_wrench: Estou montando um portfólio com o que aprendi de [Data Science](https://github.com/rayssabanti/Alura-DataScience) utilizando Python e o Pandas no curso de formação da Alura. 
+- :radio_button: Estou montando um portfólio para fixar e mostrar o conteúdo adquirido no curso de [Data Science](https://github.com/rayssabanti/Alura-DataScience) utilizando Python e Pandas da formação da Alura. 
 
-- :hammer_and_wrench: Estou trabalhando no site [MotivaStudy](https://github.com/lucasancelmodias/motivastudy) utilizando o angular como projeto da faculdade.
+- :radio_button: Estou trabalhando no site [MotivaStudy](https://github.com/lucasancelmodias/motivastudy) utilizando o angular como projeto da faculdade.
 
-- :hammer_and_wrench: Estou trabalhando no jogo [Skynet](https://github.com/lucasancelmodias/skynet) com Unity, ele tem toda uma pegada ciêntista maluco, dá uma olhada depois!
+- :radio_button: Estou trabalhando no jogo [Skynet](https://github.com/lucasancelmodias/skynet) com Unity, ele tem toda uma pegada ciêntista maluco, dá uma olhada depois!
 
 
 <h4 align="left"> :metal: Alura Badges </h3>
