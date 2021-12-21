@@ -18,8 +18,6 @@
 
 - :radio_button: Estou trabalhando no site [MotivaStudy](https://github.com/lucasancelmodias/motivastudy) utilizando o angular como projeto da faculdade.
 
-- :radio_button: Estou trabalhando no jogo [Skynet](https://github.com/lucasancelmodias/skynet) com Unity, ele tem toda uma pegada ciêntista maluco, dá uma olhada depois!
-
 
 <h4 align="left"> :metal: Alura Badges </h3>
 <img align="left" src="https://i.imgur.com/aoYkCsr.png" width="200" height="200"/> 
