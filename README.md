@@ -3,9 +3,9 @@
 
 - :bar_chart: Sou Analista de dados no **Banco Ourinvest**.
 
-- :mortar_board: Curso ciência da computação e estou no sexto semestre.
+- :mortar_board: Curso ciência da computação e estou no sétimo semestre.
 
-- :computer: **Interesses:** SQL,TSQL, DAX, Python, Datascience, Machine learning e criações de pipelines para ETL. 
+- :computer: **Interesses:** SQL, Python, Datascience, Machine learning. 
 <h3 align="left"> :pushpin: Alura Challenges </h3>
 
 - :o: Participei do [Challenge BI](https://github.com/rayssabanti/Alura-Challenge-BI) da Alura, dá uma conferida!
