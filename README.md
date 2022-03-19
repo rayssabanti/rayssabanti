@@ -23,7 +23,10 @@
 <h4 align="left"> :metal: Alura Badges </h3>
 <img align="left" src="https://i.imgur.com/aoYkCsr.png" width="200" height="200"/> 
 
-<img  align="center" src="https://user-images.githubusercontent.com/79534537/137536097-41937a41-767f-4b7f-a839-13e6ac0ff2c7.png" width="200" height="200"/> 
+<img  align="left" src="https://user-images.githubusercontent.com/79534537/137536097-41937a41-767f-4b7f-a839-13e6ac0ff2c7.png" width="200" height="200"/> 
+<img  align="left" src="https://i.imgur.com/U9gUONy.png" width="200" height="200"/> 
+
+
 
 <h3 align="left">:mag_right:		Me ache por ai!</h3>
 
