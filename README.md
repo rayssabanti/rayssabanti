@@ -8,7 +8,7 @@
 - :computer: **Interesses:** SQL, Python, Datascience, Machine learning. 
 <h3 align="left"> :pushpin: Alura Challenges </h3>
 
-- :o: Estou participando do [Challenge BI 2](https://github.com/rayssabanti/Alura-Challenge-BI-2) da Alura.
+- :o: Participei do [Challenge BI 2](https://github.com/rayssabanti/Alura-Challenge-BI-2) da Alura.
 - :o: Participei do [Challenge BI](https://github.com/rayssabanti/Alura-Challenge-BI) em sua primeira versão, dá uma conferida!
 - :o: Me aventurei pela [Imersão Dados 3](https://github.com/rayssabanti/imersaoDados3) e descobri uma paixão por python!
 
