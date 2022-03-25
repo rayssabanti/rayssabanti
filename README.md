@@ -31,6 +31,9 @@
     <a href="mailto:rayssabanti@hotmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rayssabanti@hotmail.com">
     </a>
+<br>
+<br>
+<br><br><br>
 
 #### :vulcan_salute:	Visitas no perfil:
  <img alingn="left" src="https://profile-counter.glitch.me/rayssabanti/count.svg" />
