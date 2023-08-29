@@ -1,23 +1,36 @@
-<h1 align="center">Oh hello there!</h1>
-<h3 align="center">Always trying to learn as much as possible without losing mental health</h3>
+<h2 align="center">Oh hello there!</h2>
+<h3>About me</h2>
+As a teenager, I always had the supreme mission of completing all the side quests, paying attention even to the simplest dialogues, and solving all the puzzles while playing an RPG game. Perhaps that's why I was the person who fixed errors on family computers from an early age, the one who provided the neatly organized summary at school, and the one people would come to for advice whenever they had a question.
 
-- :bar_chart: Sou Analista de dados no **Banco Ourinvest**.
+Now, I put these characteristics to work as a data scientist. I no longer have to defeat a boss, but instead, analyze its characteristics and predict the best way to overcome it.
 
-- :mortar_board: Curso ciência da computação e estou no sétimo semestre.
+- :microscope: Mid-Level Data Scientist at ClickBus.
 
-- :computer: **Interesses:** SQL, Python, Datascience, Machine learning. 
-<h3 align="left"> :pushpin: Alura Challenges </h3>
-
-* [Challenge DS I](https://github.com/rayssabanti/Challenge-DataScience-1)
-* [Challenge BI II](https://github.com/rayssabanti/Alura-Challenge-BI-2)
-* [Challenge BI](https://github.com/rayssabanti/Alura-Challenge-BI)
+- :mortar_board: Bachelor's Degree in Computer Science at USJT.
+- :mortar_board: Graduate student in Artificial Intelligence and Big Data at USP.
+- :briefcase: 3 years of experience in the data field and have developed various models for the credit sector, with proven effectiveness in production.
 
 
-<h3 align="left">:hammer_and_wrench:		Working On </h3>
+<h2 align="left"> :pushpin: Projects </h2>
+<h3 align="left"> Data Analysis </h3>
 
-- :radio_button: Estou montando um portfólio para fixar e mostrar o conteúdo adquirido no curso de [Data Science](https://github.com/rayssabanti/Alura-DataScience) utilizando Python e Pandas da formação da Alura. 
+* [Análise de Campanha de MKT](https://github.com/rayssabanti/Analise-da-Campanha-de-MKT)
+* [COVID Portfólio Project](https://github.com/rayssabanti/COVID-Portfolio-Project)
+* [Alura Challenge BI](https://github.com/rayssabanti/Alura-Challenge-BI)
+* [Alura Challenge BI II](https://github.com/rayssabanti/Alura-Challenge-BI-2)
 
-- :radio_button: Estou trabalhando no site [MotivaStudy](https://github.com/lucasancelmodias/motivastudy) utilizando o angular como projeto da faculdade.
+
+<h3 align="left"> Data Science e Ml </h3>
+
+* [Alura Challenge Data Science](https://github.com/rayssabanti/Challenge-DataScience-1)
+* [Alura Challenge Data Science II](https://github.com/rayssabanti/Challenge-DataScience-2)
+
+
+  
+<h3 align="left"> Tools </h3>
+
+* [CookieCutter]()
+
 
 
 <h4 align="left"> :metal: Alura Badges </h3>
@@ -37,9 +50,6 @@
 
 #### :vulcan_salute:	Visitas no perfil:
  <img alingn="left" src="https://profile-counter.glitch.me/rayssabanti/count.svg" />
-
-## :nerd_face:		Conhecimento em:
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank">  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank">  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank">  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank">  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
 #### :purple_heart:	Status no GitHub:
